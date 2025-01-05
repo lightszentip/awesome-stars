@@ -7,6 +7,9 @@ jobs:
   awesome-stars:
     name: update awesome-stars
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
     steps:
     - uses: actions/checkout@v3
     - name: Set up Python
