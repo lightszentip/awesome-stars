@@ -10,6 +10,7 @@
 - [android](#android)
 - [angular](#angular)
 - [ansible](#ansible)
+- [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [aws](#aws)
@@ -108,6 +109,10 @@
 ## ansible 
 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+
+## automation 
+
+- [Tschucki/filament-workflows](https://github.com/Tschucki/filament-workflows) - Laravel Filament plugin to add workflows.  Attach triggers and dispatchable actions to automate tasks
 
 ## awesome 
 
@@ -223,6 +228,7 @@
 
 ## hacktoberfest 
 
+- [Z3d0X/filament-fabricator](https://github.com/Z3d0X/filament-fabricator) - Block-Based Page Builder Skeleton for your Filament Apps
 - [tabuna/breadcrumbs](https://github.com/tabuna/breadcrumbs) - Laravel Breadcrumbs - An easy way to add breadcrumbs to your @Laravel app.
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
@@ -271,6 +277,10 @@
 
 ## laravel 
 
+- [CodeWithDennis/filament-select-tree](https://github.com/CodeWithDennis/filament-select-tree) - The multi-level select field lets you pick one or multiple options from a list that is neatly organized into different levels.
+- [Tschucki/filament-workflows](https://github.com/Tschucki/filament-workflows) - Laravel Filament plugin to add workflows.  Attach triggers and dispatchable actions to automate tasks
+- [statikbe/laravel-filament-flexible-content-blocks](https://github.com/statikbe/laravel-filament-flexible-content-blocks) - The Laravel Filament Flexible Content Blocks package helps you to easily create content in Filament for any model, with predefined or custom blocks, and foreach block an extendable Blade view componen
+- [frikishaan/tiny-crm](https://github.com/frikishaan/tiny-crm) - A small and Open-source CRM built with Filament PHP & Laravel ❤.
 - [CodeWithDennis/larament](https://github.com/CodeWithDennis/larament) - Kickstart your project and save time with Larament! This time-saving starter kit includes a Laravel 11 with FilamentPHP 3 already installed and set up, along with extra features.
 - [archtechx/tenancy](https://github.com/archtechx/tenancy) - Automatic multi-tenancy for Laravel. No code changes needed.
 - [mooxphp/moox](https://github.com/mooxphp/moox) - The Moox Project - Packages for Filament and Laravel
@@ -334,6 +344,7 @@
 
 ## open-source 
 
+- [frikishaan/tiny-crm](https://github.com/frikishaan/tiny-crm) - A small and Open-source CRM built with Filament PHP & Laravel ❤.
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 
@@ -367,6 +378,9 @@
 
 ## php 
 
+- [CodeWithDennis/filament-select-tree](https://github.com/CodeWithDennis/filament-select-tree) - The multi-level select field lets you pick one or multiple options from a list that is neatly organized into different levels.
+- [statikbe/laravel-filament-flexible-content-blocks](https://github.com/statikbe/laravel-filament-flexible-content-blocks) - The Laravel Filament Flexible Content Blocks package helps you to easily create content in Filament for any model, with predefined or custom blocks, and foreach block an extendable Blade view componen
+- [frikishaan/tiny-crm](https://github.com/frikishaan/tiny-crm) - A small and Open-source CRM built with Filament PHP & Laravel ❤.
 - [CodeWithDennis/larament](https://github.com/CodeWithDennis/larament) - Kickstart your project and save time with Larament! This time-saving starter kit includes a Laravel 11 with FilamentPHP 3 already installed and set up, along with extra features.
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [TheAlgorithms/PHP](https://github.com/TheAlgorithms/PHP) - All Algorithms implemented in PHP
