@@ -29,7 +29,6 @@
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
-- [argoproj/gitops-engine](https://github.com/argoproj/gitops-engine) - Democratizing GitOps
 
 ## Groovy 
 
@@ -45,7 +44,6 @@
 ## Java 
 
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
-- [t0xa/gelfj](https://github.com/t0xa/gelfj) - Graylog Extended Log Format (GELF) implementation in Java and log4j appender without any dependencies.
 - [thymeleaf/thymeleaf-spring](https://github.com/thymeleaf/thymeleaf-spring) - Thymeleaf integration module for Spring
 
 ## JavaScript 
@@ -55,6 +53,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 
@@ -88,7 +87,6 @@
 - [TheAlgorithms/PHP](https://github.com/TheAlgorithms/PHP) - All Algorithms implemented in PHP
 - [antonioribeiro/version](https://github.com/antonioribeiro/version) - Laravel App versioning
 - [hexters/auth](https://github.com/hexters/auth) - hexters/auth is a starter kit package for Laravel that provides basic authentication features and allows the development of multiple authentication setups with a simple and minimalist implementation u
-- [tomatophp/filament-cms](https://github.com/tomatophp/filament-cms) - Full CMS System with easy to use page builder & theme manager for FilamentPHP
 - [Intervention/validation](https://github.com/Intervention/validation) - Missing Laravel Validation Rules
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 126 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
 - [mavinoo/laravelBatch](https://github.com/mavinoo/laravelBatch) - insert batch and update batch in laravel
@@ -98,10 +96,11 @@
 - [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
 - [emoncms/emoncms](https://github.com/emoncms/emoncms) - Web-app for processing, logging and visualising energy, temperature and other environmental data
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
-- [thebuggenie/thebuggenie](https://github.com/thebuggenie/thebuggenie) - The Bug Genie was a friendly project management and issue tracking tool, now replaced by Pachno
 
 ## Python 
 
+- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM-powered multiagent persona simulation for imagination enhancement and business insights.
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
@@ -131,7 +130,6 @@
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
-- [aggarwalankush/ionic-push-base](https://github.com/aggarwalankush/ionic-push-base) - Ionic Push Notifications Base App for iOS and Android
 
 
 ## License
