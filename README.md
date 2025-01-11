@@ -48,6 +48,7 @@
 
 ## JavaScript 
 
+- [ccoreilly/vosk-browser](https://github.com/ccoreilly/vosk-browser) - A speech recognition library running in the browser thanks to a WebAssembly build of Vosk
 - [freeciv/freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.
 - [ERaufi/LaravelProjects](https://github.com/ERaufi/LaravelProjects) - All Laravel Projects
 
