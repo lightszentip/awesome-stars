@@ -345,6 +345,7 @@
 
 ## others 
 
+- [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [gehaxelt/phuzz](https://github.com/gehaxelt/phuzz) - 
 - [TestLinkOpenSourceTRMS/testlink-code](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - TestLink Open Source Test & Requirement Management System
 - [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM-powered multiagent persona simulation for imagination enhancement and business insights.
