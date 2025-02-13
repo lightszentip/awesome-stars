@@ -71,7 +71,7 @@
 ## PHP 
 
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
-- [liberu-crm/crm-laravel](https://github.com/liberu-crm/crm-laravel) - CRM application written in Laravel 11 / PHP 8.3 using Filament 3
+- [liberu-crm/crm-laravel](https://github.com/liberu-crm/crm-laravel) - CRM application written in Laravel 11 / PHP 8.3 using Filament 3. HubSpot & SalesForce alternative.
 - [pimcore/pimcore](https://github.com/pimcore/pimcore) - Core Framework for the Open Source Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)
 - [entrepeneur4lyf/phpHybridrag](https://github.com/entrepeneur4lyf/phpHybridrag) - 
 - [spatie/laravel-collection-macros](https://github.com/spatie/laravel-collection-macros) - A set of useful Laravel collection macros
