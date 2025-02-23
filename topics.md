@@ -442,7 +442,7 @@
 - [hexters/auth](https://github.com/hexters/auth) - hexters/auth is a starter kit package for Laravel that provides basic authentication features and allows the development of multiple authentication setups with a simple and minimalist implementation u
 - [NativePHP/awesome-nativephp](https://github.com/NativePHP/awesome-nativephp) - Sharing the awesome NativePHP apps you're building
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
-- [ERaufi/LaravelProjects](https://github.com/ERaufi/LaravelProjects) - All Laravel Projects
+- [ERaufi/LaravelProjects](https://github.com/ERaufi/LaravelProjects) - Multiple Laravel Projects For beginners and Advance Developer. in here you can find more than 25 Projects
 - [ijpatricio/mingle](https://github.com/ijpatricio/mingle) - Use JS components with Vue or React in a Laravel Livewire and/or Filament application
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
