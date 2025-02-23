@@ -48,7 +48,7 @@
 - [ccoreilly/vosk-browser](https://github.com/ccoreilly/vosk-browser) - A speech recognition library running in the browser thanks to a WebAssembly build of Vosk
 - [freeciv/freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
-- [ERaufi/LaravelProjects](https://github.com/ERaufi/LaravelProjects) - All Laravel Projects
+- [ERaufi/LaravelProjects](https://github.com/ERaufi/LaravelProjects) - Multiple Laravel Projects For beginners and Advance Developer. in here you can find more than 25 Projects
 
 ## Jupyter Notebook 
 
