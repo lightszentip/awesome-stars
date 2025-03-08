@@ -94,7 +94,6 @@
 - [vue](#vue)
 - [web](#web)
 - [web-development](#web-development)
-- [wordpress](#wordpress)
 - [xml](#xml)
 
 ## 3d 
@@ -592,10 +591,6 @@
 ## web-development 
 
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
-
-## wordpress 
-
-- [mooxphp/moox](https://github.com/mooxphp/moox) - The Moox Project - Packages for Filament and Laravel
 
 ## xml 
 
