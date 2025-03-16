@@ -436,6 +436,7 @@
 
 ## others 
 
+- [heroui-inc/heroui-cli](https://github.com/heroui-inc/heroui-cli) - ⌨️ A CLI tool that unlocks seamless HeroUI integration.
 - [entrepeneur4lyf/phpHybridrag](https://github.com/entrepeneur4lyf/phpHybridrag) - 
 - [stephenc222/example-graphrag](https://github.com/stephenc222/example-graphrag) - Example project demonstrating how to implement GraphRAG
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
