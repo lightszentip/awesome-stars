@@ -294,7 +294,7 @@
 - [jamenamcinteer/react-qr-barcode-scanner](https://github.com/jamenamcinteer/react-qr-barcode-scanner) - A simple React Component using the client's webcam to read barcodes.
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-- [pimcore/pimcore](https://github.com/pimcore/pimcore) - Core Framework for the Open Source Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)
+- [pimcore/pimcore](https://github.com/pimcore/pimcore) - Core Framework for the Open Core Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)
 - [spatie/laravel-collection-macros](https://github.com/spatie/laravel-collection-macros) - A set of useful Laravel collection macros
 - [Z3d0X/filament-fabricator](https://github.com/Z3d0X/filament-fabricator) - Block-Based Page Builder Skeleton for your Filament Apps
 - [tabuna/breadcrumbs](https://github.com/tabuna/breadcrumbs) - Laravel Breadcrumbs - An easy way to add breadcrumbs to your @Laravel app.
