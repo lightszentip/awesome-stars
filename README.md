@@ -60,6 +60,7 @@
 
 ## Lua 
 
+- [daid/EmptyEpsilon](https://github.com/daid/EmptyEpsilon) - Open source bridge simulator. Build with the SeriousProton engine.
 - [Zeioth/markmap.nvim](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps with markmap
 
 ## Others 
@@ -74,6 +75,7 @@
 
 ## PHP 
 
+- [phpmetrics/PhpMetrics](https://github.com/phpmetrics/PhpMetrics) - Beautiful and understandable static analysis tool for PHP
 - [spatie/laravel-db-snapshots](https://github.com/spatie/laravel-db-snapshots) - Quickly dump and load databases
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [liberu-crm/crm-laravel](https://github.com/liberu-crm/crm-laravel) - CRM application written in Laravel 11 / PHP 8.3 using Filament 3. HubSpot & SalesForce alternative.
