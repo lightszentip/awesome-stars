@@ -39,6 +39,8 @@
 
 ## Go 
 
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
+- [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
 
