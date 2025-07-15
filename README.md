@@ -94,6 +94,7 @@
 
 ## PHP 
 
+- [spatie/laravel-validation-rules](https://github.com/spatie/laravel-validation-rules) - A set of useful Laravel validation rules
 - [genericmilk/docudoodle](https://github.com/genericmilk/docudoodle) - Easily document your codebase using AI! Perfect for existing legacy applications
 - [rakutentech/laravel-request-docs](https://github.com/rakutentech/laravel-request-docs) - Effortless API documentation tool for Laravel applications. Swagger alternative.
 - [stevebauman/autodoc-facades](https://github.com/stevebauman/autodoc-facades) - Auto-generate PHP doc annotations for Laravel facades
