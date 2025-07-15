@@ -8,7 +8,6 @@
 - [3d](#3d)
 - [ai](#ai)
 - [algorithm](#algorithm)
-- [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
@@ -142,10 +141,6 @@
 ## algorithm 
 
 - [TheAlgorithms/PHP](https://github.com/TheAlgorithms/PHP) - All Algorithms implemented in PHP
-
-## angular 
-
-- [Worklenz/worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
 
 ## ansible 
 
@@ -406,6 +401,7 @@
 
 ## laravel 
 
+- [spatie/laravel-validation-rules](https://github.com/spatie/laravel-validation-rules) - A set of useful Laravel validation rules
 - [rakutentech/laravel-request-docs](https://github.com/rakutentech/laravel-request-docs) - Effortless API documentation tool for Laravel applications. Swagger alternative.
 - [Priom7/laravel2doc](https://github.com/Priom7/laravel2doc) - Automatically generate comprehensive documentation for Laravel applications, including Entity Relationship Diagrams (ERD), UML Class Diagrams, Sequence Diagrams, API Documentation, and more.
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
@@ -562,6 +558,7 @@
 
 ## php 
 
+- [spatie/laravel-validation-rules](https://github.com/spatie/laravel-validation-rules) - A set of useful Laravel validation rules
 - [rakutentech/laravel-request-docs](https://github.com/rakutentech/laravel-request-docs) - Effortless API documentation tool for Laravel applications. Swagger alternative.
 - [phpmetrics/PhpMetrics](https://github.com/phpmetrics/PhpMetrics) - Beautiful and understandable static analysis tool for PHP
 - [liberu-crm/crm-laravel](https://github.com/liberu-crm/crm-laravel) - CRM application written in Laravel 11 / PHP 8.3 using Filament 3. HubSpot & SalesForce alternative.
