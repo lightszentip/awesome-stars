@@ -82,6 +82,7 @@
 
 ## Others 
 
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [sudhakar3697/awesome-electron-alternatives](https://github.com/sudhakar3697/awesome-electron-alternatives) - A curated list of awesome Electron alternatives.
 - [php-ai-rules/php](https://github.com/php-ai-rules/php) - 
 - [imaurer/awesome-llm-json](https://github.com/imaurer/awesome-llm-json) - Resource list for generating JSON using LLMs via function calling, tools, CFG. Libraries, Models, Notebooks, etc.
@@ -94,6 +95,12 @@
 
 ## PHP 
 
+- [itflow-org/itflow](https://github.com/itflow-org/itflow) - All in One PSA for MSPs, which Unifies client, contact, vendor, asset, license, domain, ssl certificate, password, documentation, file, network and location management with ticketing and billing capab
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [MarcinOrlowski/laravel-api-response-builder](https://github.com/MarcinOrlowski/laravel-api-response-builder) - Builds nice, normalized and easy to consume REST JSON responses for Laravel powered APIs.
+- [glorand/laravel-model-settings](https://github.com/glorand/laravel-model-settings) - Model Settings for your Laravel app
+- [michaeldyrynda/laravel-cascade-soft-deletes](https://github.com/michaeldyrynda/laravel-cascade-soft-deletes) - Cascading deletes for Eloquent models that implement soft deletes
 - [spatie/laravel-validation-rules](https://github.com/spatie/laravel-validation-rules) - A set of useful Laravel validation rules
 - [genericmilk/docudoodle](https://github.com/genericmilk/docudoodle) - Easily document your codebase using AI! Perfect for existing legacy applications
 - [rakutentech/laravel-request-docs](https://github.com/rakutentech/laravel-request-docs) - Effortless API documentation tool for Laravel applications. Swagger alternative.
@@ -132,6 +139,9 @@
 
 ## Python 
 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+- [frappe/hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software
+- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [kaleidos-ventures/taiga](https://github.com/kaleidos-ventures/taiga) - Taiga is a free and open-source project management for cross-functional agile teams.
 - [facebookresearch/DocAgent](https://github.com/facebookresearch/DocAgent) - DocAgent is a system designed to generate high-quality, context-aware code documentation for Python codebases using a multi-agent approach and hierarchical processing.
 - [jimmc414/onefilellm](https://github.com/jimmc414/onefilellm) - Specify a github or local repo, github pull request,  arXiv or Sci-Hub paper, Youtube transcript or documentation URL on the web and scrape into a text file and clipboard  for easier LLM ingestion
