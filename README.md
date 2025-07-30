@@ -39,6 +39,7 @@
 
 ## Go 
 
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
@@ -189,7 +190,6 @@
 ## TypeScript 
 
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [Orgnise/webapp](https://github.com/Orgnise/webapp) - Streamline your work with our all-in-one knowledge, doc, and project management system.
 - [haydenbleasel/eververse](https://github.com/haydenbleasel/eververse) - The open source product management platform.
 - [Worklenz/worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
