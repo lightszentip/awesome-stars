@@ -567,7 +567,7 @@
 - [facebookresearch/DocAgent](https://github.com/facebookresearch/DocAgent) - DocAgent is a system designed to generate high-quality, context-aware code documentation for Python codebases using a multi-agent approach and hierarchical processing.
 - [genericmilk/docudoodle](https://github.com/genericmilk/docudoodle) - Easily document your codebase using AI! Perfect for existing legacy applications
 - [stevebauman/autodoc-facades](https://github.com/stevebauman/autodoc-facades) - Auto-generate PHP doc annotations for Laravel facades
-- [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
+- [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - [codelion/openevolve](https://github.com/codelion/openevolve) - Open-source implementation of AlphaEvolve
 - [Nutlope/napkins](https://github.com/Nutlope/napkins) - napkins.dev – from screenshot to app
 - [mcavaliere/llm-codegen](https://github.com/mcavaliere/llm-codegen) - Better LLM code generation for all the libs you use
