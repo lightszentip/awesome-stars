@@ -575,6 +575,7 @@
 
 ## others 
 
+- [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
 - [LaravelDaily/Laravel-API-Course-NextJS-Client](https://github.com/LaravelDaily/Laravel-API-Course-NextJS-Client) - 
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [php-ai-rules/php](https://github.com/php-ai-rules/php) - 
