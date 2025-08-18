@@ -67,6 +67,7 @@
 - [llm](#llm)
 - [localization](#localization)
 - [low-code](#low-code)
+- [mac](#mac)
 - [machine-learning](#machine-learning)
 - [markdown](#markdown)
 - [mongodb](#mongodb)
@@ -115,6 +116,7 @@
 - [vuejs](#vuejs)
 - [web](#web)
 - [web-development](#web-development)
+- [windows](#windows)
 - [xml](#xml)
 
 ## 3d 
@@ -123,6 +125,8 @@
 
 ## ai 
 
+- [laravel/boost](https://github.com/laravel/boost) - Laravel-focused MCP server for augmenting your AI powered local development experience.
+- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
@@ -150,6 +154,7 @@
 
 ## analytics 
 
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 
 ## ansible 
@@ -168,6 +173,7 @@
 
 ## automation 
 
+- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
 - [Tschucki/filament-workflows](https://github.com/Tschucki/filament-workflows) - Laravel Filament plugin to add workflows.  Attach triggers and dispatchable actions to automate tasks
 
 ## awesome 
@@ -200,6 +206,7 @@
 
 ## chatgpt 
 
+- [guinacio/langchain-mcp-client](https://github.com/guinacio/langchain-mcp-client) - This Streamlit application provides a user interface for connecting to MCP (Model Context Protocol) servers and interacting with them using different LLM providers (OpenAI, Anthropic, Google, Ollama).
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [victordibia/autogen-ui](https://github.com/victordibia/autogen-ui) - Web UI for AutoGen (A Framework Multi-Agent LLM Applications)
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
@@ -435,6 +442,7 @@
 
 ## laravel 
 
+- [laravel/boost](https://github.com/laravel/boost) - Laravel-focused MCP server for augmenting your AI powered local development experience.
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [MarcinOrlowski/laravel-api-response-builder](https://github.com/MarcinOrlowski/laravel-api-response-builder) - Builds nice, normalized and easy to consume REST JSON responses for Laravel powered APIs.
 - [glorand/laravel-model-settings](https://github.com/glorand/laravel-model-settings) - Model Settings for your Laravel app
@@ -464,11 +472,14 @@
 
 ## linux 
 
+- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
 ## llm 
 
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
@@ -489,6 +500,10 @@
 
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 
+## mac 
+
+- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
+
 ## machine-learning 
 
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source AI framework for semantic search, LLM orchestration and language model workflows
@@ -505,6 +520,7 @@
 
 ## monitoring 
 
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
@@ -553,6 +569,7 @@
 
 ## open-source 
 
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [frappe/hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [horilla-opensource/horilla](https://github.com/horilla-opensource/horilla) - Horilla is a free and open source HR software.
@@ -565,6 +582,7 @@
 
 ## openai 
 
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
@@ -575,6 +593,7 @@
 
 ## others 
 
+- [vizra-ai/vizra-adk](https://github.com/vizra-ai/vizra-adk) - Build, test, and deploy intelligent AI agents the Laravel way
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
 - [LaravelDaily/Laravel-API-Course-NextJS-Client](https://github.com/LaravelDaily/Laravel-API-Course-NextJS-Client) - 
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
@@ -719,6 +738,7 @@
 
 ## rust 
 
+- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
@@ -739,6 +759,7 @@
 
 ## self-hosted 
 
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [Eigenfocus/eigenfocus](https://github.com/Eigenfocus/eigenfocus) - Self-Hosted - Project Management, Planning and Time Tracker
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
@@ -829,6 +850,10 @@
 ## web-development 
 
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
+
+## windows 
+
+- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
 
 ## xml 
 
