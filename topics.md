@@ -612,6 +612,7 @@
 
 ## others 
 
+- [bugsink/bugsink](https://github.com/bugsink/bugsink) - Self-hosted Error Tracking
 - [imanoop7/Ollama-OCR](https://github.com/imanoop7/Ollama-OCR) - 
 - [vizra-ai/vizra-adk](https://github.com/vizra-ai/vizra-adk) - Build, test, and deploy intelligent AI agents the Laravel way
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
