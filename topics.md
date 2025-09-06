@@ -129,6 +129,7 @@
 
 ## ai 
 
+- [inspector-apm/neuron-ai](https://github.com/inspector-apm/neuron-ai) - The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, vector DBs, memory) to agents that can interact with your data. With its modular architecture it's
 - [chitralputhran/Advanced-RAG-LangGraph](https://github.com/chitralputhran/Advanced-RAG-LangGraph) - Advanced-RAG-LangGraph is a Streamlit-based web application that implements an advanced Retrieval-Augmented Generation (RAG) pipeline using LangGraph, ChromaDB, and Tavily to enable interactive docume
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [strands-agents/docs](https://github.com/strands-agents/docs) - Documentation for the Strands Agents SDK. A model-driven approach to building AI agents in just a few lines of code.
@@ -309,7 +310,7 @@
 ## documentation 
 
 - [reactjs/react-docgen](https://github.com/reactjs/react-docgen) - A CLI and library to extract information from React component files for documentation generation purposes.
-- [Priom7/laravel2doc](https://github.com/Priom7/laravel2doc) - Automatically generate comprehensive documentation for Laravel applications, including Entity Relationship Diagrams (ERD), UML Class Diagrams, Sequence Diagrams, API Documentation, and more.
+- [Priom7/laravel2doc](https://github.com/Priom7/laravel2doc) - Automate generating comprehensive documentation for Laravel applications, including Entity Relationship Diagrams (ERD), UML Class Diagrams, Sequence Diagrams, API Documentation, and more.
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 
@@ -463,7 +464,7 @@
 - [michaeldyrynda/laravel-cascade-soft-deletes](https://github.com/michaeldyrynda/laravel-cascade-soft-deletes) - Cascading deletes for Eloquent models that implement soft deletes
 - [spatie/laravel-validation-rules](https://github.com/spatie/laravel-validation-rules) - A set of useful Laravel validation rules
 - [rakutentech/laravel-request-docs](https://github.com/rakutentech/laravel-request-docs) - Effortless API documentation tool for Laravel applications. Swagger alternative.
-- [Priom7/laravel2doc](https://github.com/Priom7/laravel2doc) - Automatically generate comprehensive documentation for Laravel applications, including Entity Relationship Diagrams (ERD), UML Class Diagrams, Sequence Diagrams, API Documentation, and more.
+- [Priom7/laravel2doc](https://github.com/Priom7/laravel2doc) - Automate generating comprehensive documentation for Laravel applications, including Entity Relationship Diagrams (ERD), UML Class Diagrams, Sequence Diagrams, API Documentation, and more.
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [liberu-crm/crm-laravel](https://github.com/liberu-crm/crm-laravel) - CRM application written in Laravel 12 / PHP 8.4 using Filament 4. HubSpot & SalesForce alternative.
 - [spatie/laravel-collection-macros](https://github.com/spatie/laravel-collection-macros) - A set of useful Laravel collection macros
@@ -493,6 +494,7 @@
 
 ## llm 
 
+- [inspector-apm/neuron-ai](https://github.com/inspector-apm/neuron-ai) - The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, vector DBs, memory) to agents that can interact with your data. With its modular architecture it's
 - [strands-agents/docs](https://github.com/strands-agents/docs) - Documentation for the Strands Agents SDK. A model-driven approach to building AI agents in just a few lines of code.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
@@ -588,7 +590,7 @@
 ## nodejs 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [Priom7/laravel2doc](https://github.com/Priom7/laravel2doc) - Automatically generate comprehensive documentation for Laravel applications, including Entity Relationship Diagrams (ERD), UML Class Diagrams, Sequence Diagrams, API Documentation, and more.
+- [Priom7/laravel2doc](https://github.com/Priom7/laravel2doc) - Automate generating comprehensive documentation for Laravel applications, including Entity Relationship Diagrams (ERD), UML Class Diagrams, Sequence Diagrams, API Documentation, and more.
 
 ## open-source 
 
@@ -659,6 +661,7 @@
 
 ## php 
 
+- [inspector-apm/neuron-ai](https://github.com/inspector-apm/neuron-ai) - The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, vector DBs, memory) to agents that can interact with your data. With its modular architecture it's
 - [itflow-org/itflow](https://github.com/itflow-org/itflow) - All in One PSA for MSPs, which Unifies client, contact, vendor, asset, license, domain, ssl certificate, password, documentation, file, network and location management with ticketing and billing capab
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
@@ -827,7 +830,7 @@
 
 ## sql 
 
-- [Priom7/laravel2doc](https://github.com/Priom7/laravel2doc) - Automatically generate comprehensive documentation for Laravel applications, including Entity Relationship Diagrams (ERD), UML Class Diagrams, Sequence Diagrams, API Documentation, and more.
+- [Priom7/laravel2doc](https://github.com/Priom7/laravel2doc) - Automate generating comprehensive documentation for Laravel applications, including Entity Relationship Diagrams (ERD), UML Class Diagrams, Sequence Diagrams, API Documentation, and more.
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
