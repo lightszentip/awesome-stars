@@ -457,6 +457,8 @@
 
 ## laravel 
 
+- [spatie/laravel-flash](https://github.com/spatie/laravel-flash) - A lightweight package to flash messages
+- [ringlesoft/laravel-process-approval](https://github.com/ringlesoft/laravel-process-approval) - Laravel Process Approval is a Laravel package that makes it easy to add approvals to your Laravel application. It allows you to define approval workflows for any model, and it provides a simple and ea
 - [laravel/boost](https://github.com/laravel/boost) - Laravel-focused MCP server for augmenting your AI powered local development experience.
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [MarcinOrlowski/laravel-api-response-builder](https://github.com/MarcinOrlowski/laravel-api-response-builder) - Builds nice, normalized and easy to consume REST JSON responses for Laravel powered APIs.
@@ -619,6 +621,7 @@
 
 ## others 
 
+- [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api) - Dockerized Signal Messenger REST API
 - [OpenLinkSoftware/mcp-jdbc-server](https://github.com/OpenLinkSoftware/mcp-jdbc-server) - Java based Model Context Procotol (MCP) Server for JDBC
 - [quarkiverse/quarkus-mcp-servers](https://github.com/quarkiverse/quarkus-mcp-servers) - Model Context Protocol Servers in Quarkus
 - [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
@@ -661,6 +664,7 @@
 
 ## php 
 
+- [spatie/laravel-flash](https://github.com/spatie/laravel-flash) - A lightweight package to flash messages
 - [inspector-apm/neuron-ai](https://github.com/inspector-apm/neuron-ai) - The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, vector DBs, memory) to agents that can interact with your data. With its modular architecture it's
 - [itflow-org/itflow](https://github.com/itflow-org/itflow) - All in One PSA for MSPs, which Unifies client, contact, vendor, asset, license, domain, ssl certificate, password, documentation, file, network and location management with ticketing and billing capab
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
