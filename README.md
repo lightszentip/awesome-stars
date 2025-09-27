@@ -8,6 +8,7 @@
 - [Blade](#blade)
 - [C#](#c#)
 - [C++](#c++)
+- [Dart](#dart)
 - [Elixir](#elixir)
 - [Go](#go)
 - [Groovy](#groovy)
@@ -37,6 +38,10 @@
 ## C++ 
 
 - [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding 
+
+## Dart 
+
+- [daodao97/chatmcp](https://github.com/daodao97/chatmcp) - ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).
 
 ## Elixir 
 
