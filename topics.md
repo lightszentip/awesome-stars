@@ -179,6 +179,7 @@
 
 ## api 
 
+- [ahmedesa/laravel-api-tool-kit](https://github.com/ahmedesa/laravel-api-tool-kit) - Your all-in-one solution for building efficient APIs with Laravel.
 - [MarcinOrlowski/laravel-api-response-builder](https://github.com/MarcinOrlowski/laravel-api-response-builder) - Builds nice, normalized and easy to consume REST JSON responses for Laravel powered APIs.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 
@@ -476,6 +477,8 @@
 
 ## laravel 
 
+- [ahmedesa/laravel-api-tool-kit](https://github.com/ahmedesa/laravel-api-tool-kit) - Your all-in-one solution for building efficient APIs with Laravel.
+- [kauffinger/livewire-chat](https://github.com/kauffinger/livewire-chat) - Laravel Livewire Chat UI Starter Kit
 - [theokafadaris/chatwire](https://github.com/theokafadaris/chatwire) - Self hosted ChatGPT clone using Laravel
 - [cybercog/youtrack-rest-php](https://github.com/cybercog/youtrack-rest-php) - JetBrains YouTrack REST API PHP Client
 - [spatie/laravel-flash](https://github.com/spatie/laravel-flash) - A lightweight package to flash messages
