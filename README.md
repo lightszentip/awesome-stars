@@ -113,6 +113,8 @@
 
 ## PHP 
 
+- [ahmedesa/laravel-api-tool-kit](https://github.com/ahmedesa/laravel-api-tool-kit) - Your all-in-one solution for building efficient APIs with Laravel.
+- [kauffinger/livewire-chat](https://github.com/kauffinger/livewire-chat) - Laravel Livewire Chat UI Starter Kit
 - [theokafadaris/chatwire](https://github.com/theokafadaris/chatwire) - Self hosted ChatGPT clone using Laravel
 - [cybercog/youtrack-rest-php](https://github.com/cybercog/youtrack-rest-php) - JetBrains YouTrack REST API PHP Client
 - [spatie/laravel-flash](https://github.com/spatie/laravel-flash) - A lightweight package to flash messages
