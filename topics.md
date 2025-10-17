@@ -29,8 +29,11 @@
 - [coding](#coding)
 - [cpp](#cpp)
 - [cybersecurity](#cybersecurity)
+- [data](#data)
 - [data-analysis](#data-analysis)
+- [data-science](#data-science)
 - [data-structures](#data-structures)
+- [data-visualization](#data-visualization)
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [deployment](#deployment)
@@ -133,6 +136,7 @@
 
 ## ai 
 
+- [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [theokafadaris/chatwire](https://github.com/theokafadaris/chatwire) - Self hosted ChatGPT clone using Laravel
 - [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 - [daodao97/chatmcp](https://github.com/daodao97/chatmcp) - ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).
@@ -276,16 +280,30 @@
 
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 
+## data 
+
+- [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
+
 ## data-analysis 
 
+- [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your dataframe into an interactive UI for visual analysis
+
+## data-science 
+
+- [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 
 ## data-structures 
 
 - [TheAlgorithms/PHP](https://github.com/TheAlgorithms/PHP) - All Algorithms implemented in PHP
 
+## data-visualization 
+
+- [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
+
 ## database 
 
+- [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [spatie/laravel-db-snapshots](https://github.com/spatie/laravel-db-snapshots) - Quickly dump and load databases
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [nunomaduro/laravel-optimize-database](https://github.com/nunomaduro/laravel-optimize-database) - 💨 Provides a good starting point for production-ready SQLite databases
@@ -526,6 +544,7 @@
 
 ## llm 
 
+- [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) - The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, vector DBs, memory) to agents that can interact with your data. With its modular architecture it's
 - [strands-agents/docs](https://github.com/strands-agents/docs) - Documentation for the Strands Agents SDK. A model-driven approach to building AI agents in just a few lines of code.
 - [vizra-ai/vizra-adk](https://github.com/vizra-ai/vizra-adk) - Build, test, and deploy intelligent AI agents the Laravel way
@@ -873,6 +892,7 @@
 
 ## sql 
 
+- [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [Mapping-Apping/laravel2doc](https://github.com/Mapping-Apping/laravel2doc) - Automate generating comprehensive documentation for Laravel applications, including Entity Relationship Diagrams (ERD), UML Class Diagrams, Sequence Diagrams, API Documentation, and more.
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
