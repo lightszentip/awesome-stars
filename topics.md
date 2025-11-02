@@ -709,7 +709,7 @@
 - [genericmilk/docudoodle](https://github.com/genericmilk/docudoodle) - Easily document your codebase using AI! Perfect for existing legacy applications
 - [stevebauman/autodoc-facades](https://github.com/stevebauman/autodoc-facades) - Auto-generate PHP doc annotations for Laravel facades
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
-- [codelion/openevolve](https://github.com/codelion/openevolve) - Open-source implementation of AlphaEvolve
+- [algorithmicsuperintelligence/openevolve](https://github.com/algorithmicsuperintelligence/openevolve) - Open-source implementation of AlphaEvolve
 - [Nutlope/napkins](https://github.com/Nutlope/napkins) - napkins.dev – from screenshot to app
 - [mcavaliere/llm-codegen](https://github.com/mcavaliere/llm-codegen) - Better LLM code generation for all the libs you use
 - [heroui-inc/heroui-cli](https://github.com/heroui-inc/heroui-cli) - ⌨️ A CLI tool that unlocks seamless HeroUI integration.
