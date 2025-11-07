@@ -475,6 +475,7 @@
 
 ## java 
 
+- [operaton/operaton](https://github.com/operaton/operaton) - BPMN-Process automation for everyone
 - [thymeleaf/thymeleaf-spring](https://github.com/thymeleaf/thymeleaf-spring) - Thymeleaf integration module for Spring
 
 ## javascript 
