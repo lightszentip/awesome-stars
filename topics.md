@@ -690,6 +690,7 @@
 
 ## others 
 
+- [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers.
 - [GongRzhe/Office-PowerPoint-MCP-Server](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) - A MCP (Model Context Protocol) server for PowerPoint manipulation using python-pptx. This server provides tools for creating, editing, and manipulating PowerPoint presentations through the MCP protoco
 - [surajverma/homehub](https://github.com/surajverma/homehub) - A lightweight, no-login, self-hosted family utility for your home.
 - [maglore9900/personal_Ollama_FAQ](https://github.com/maglore9900/personal_Ollama_FAQ) - 
