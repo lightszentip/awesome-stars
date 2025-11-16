@@ -351,7 +351,7 @@
 
 ## django 
 
-- [horilla-opensource/horilla](https://github.com/horilla-opensource/horilla) - Horilla is a free and open source HR software.
+- [horilla-opensource/horilla](https://github.com/horilla-opensource/horilla) - Horilla is a free and open source HR and CRM software.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 
@@ -488,7 +488,7 @@
 
 - [frappe/hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-- [horilla-opensource/horilla](https://github.com/horilla-opensource/horilla) - Horilla is a free and open source HR software.
+- [horilla-opensource/horilla](https://github.com/horilla-opensource/horilla) - Horilla is a free and open source HR and CRM software.
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [freeciv/freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.
@@ -501,7 +501,7 @@
 
 ## jquery 
 
-- [horilla-opensource/horilla](https://github.com/horilla-opensource/horilla) - Horilla is a free and open source HR software.
+- [horilla-opensource/horilla](https://github.com/horilla-opensource/horilla) - Horilla is a free and open source HR and CRM software.
 
 ## json 
 
@@ -672,7 +672,7 @@
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [frappe/hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-- [horilla-opensource/horilla](https://github.com/horilla-opensource/horilla) - Horilla is a free and open source HR software.
+- [horilla-opensource/horilla](https://github.com/horilla-opensource/horilla) - Horilla is a free and open source HR and CRM software.
 - [operately/operately](https://github.com/operately/operately) - The open source company operating system.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
@@ -817,7 +817,7 @@
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [frappe/hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
-- [horilla-opensource/horilla](https://github.com/horilla-opensource/horilla) - Horilla is a free and open source HR software.
+- [horilla-opensource/horilla](https://github.com/horilla-opensource/horilla) - Horilla is a free and open source HR and CRM software.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source AI framework for semantic search, LLM orchestration and language model workflows
