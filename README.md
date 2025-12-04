@@ -60,7 +60,6 @@
 ## HTML 
 
 - [surajverma/homehub](https://github.com/surajverma/homehub) - A lightweight, no-login, self-hosted family utility for your home.
-- [strands-agents/docs](https://github.com/strands-agents/docs) - Documentation for the Strands Agents SDK. A model-driven approach to building AI agents in just a few lines of code.
 - [horilla-opensource/horilla](https://github.com/horilla-opensource/horilla) - Horilla is a free and open source HR and CRM software.
 - [gehaxelt/phuzz](https://github.com/gehaxelt/phuzz) - Modular & Open-Source Coverage-Guided Web Application Fuzzer for PHP
 - [LlmLaraHub/larallama](https://github.com/LlmLaraHub/larallama) - This is version 2 of LaraChain.io ream more at https://LaraLlama.io
@@ -176,6 +175,7 @@
 - [p-funk/fegis](https://github.com/p-funk/fegis) - Define AI tools in YAML with natural language schemas. All tool usage is automatically stored in Qdrant vector database, enabling semantic search, filtering, and memory retrieval across sessions.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [bugsink/bugsink](https://github.com/bugsink/bugsink) - Self-hosted Error Tracking
+- [strands-agents/docs](https://github.com/strands-agents/docs) - Documentation for the Strands Agents SDK. A model-driven approach to building AI agents in just a few lines of code.
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, YouTube, GitHub, Discord, and more.  Join our Discord: https://discord.g
 - [guinacio/langchain-mcp-client](https://github.com/guinacio/langchain-mcp-client) - This Streamlit application provides a user interface for connecting to MCP (Model Context Protocol) servers and interacting with them using different LLM providers (OpenAI, Anthropic, Google, Ollama).
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
@@ -199,7 +199,7 @@
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The open-source stack for building, running and managing multi-agent systems.
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your dataframe into an interactive UI for visual analysis
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
