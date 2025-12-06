@@ -59,7 +59,7 @@
 
 ## HTML 
 
-- [surajverma/homehub](https://github.com/surajverma/homehub) - A lightweight, no-login, self-hosted family utility for your home.
+- [surajverma/homehub](https://github.com/surajverma/homehub) - A lightweight, no-login, self-hosted family utility for your home and it comes with no config PWA.
 - [horilla-opensource/horilla](https://github.com/horilla-opensource/horilla) - Horilla is a free and open source HR and CRM software.
 - [gehaxelt/phuzz](https://github.com/gehaxelt/phuzz) - Modular & Open-Source Coverage-Guided Web Application Fuzzer for PHP
 - [LlmLaraHub/larallama](https://github.com/LlmLaraHub/larallama) - This is version 2 of LaraChain.io ream more at https://LaraLlama.io
@@ -85,6 +85,8 @@
 
 ## Jupyter Notebook 
 
+- [Nixtla/nixtla](https://github.com/Nixtla/nixtla) - TimeGPT-1: production ready pre-trained Time Series Foundation Model  for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's ca
+- [timeseriesAI/tsai](https://github.com/timeseriesAI/tsai) - Time series Timeseries Deep Learning Machine Learning Python Pytorch  fastai | State-of-the-art Deep Learning library  for Time Series and Sequences in Pytorch / fastai
 - [imanoop7/Ollama-OCR](https://github.com/imanoop7/Ollama-OCR) - 
 - [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM-powered multiagent persona simulation for imagination enhancement and business insights.
 - [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 
@@ -212,7 +214,7 @@
 
 ## Rust 
 
-- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - Open-source Rust based AI meeting assistant with Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization. 100% local processing. no cloud required. Meetily (Meetly Ai - http
+- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - Open-source Rust based AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization. 100% local processing. no cloud required. Meetily (Meetly
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -237,7 +239,7 @@
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [LaravelDaily/Laravel-API-Course-NextJS-Client](https://github.com/LaravelDaily/Laravel-API-Course-NextJS-Client) - 
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
+- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
 - [Orgnise/webapp](https://github.com/Orgnise/webapp) - Streamline your work with our all-in-one knowledge, doc, and project management system.
 - [haydenbleasel/eververse](https://github.com/haydenbleasel/eververse) - The open source product management platform.
 - [Worklenz/worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
