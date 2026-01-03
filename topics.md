@@ -188,7 +188,7 @@
 - [joshembling/laragenie](https://github.com/joshembling/laragenie) - 🤖 An AI bot made for the command line that can read and understand any codebase from your Laravel app.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The Multi-Agent Framework, Runtime, and Control Plane. Build AI products that run in your cloud.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Agents: framework, runtime and control plane.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
@@ -203,7 +203,7 @@
 - [victordibia/autogen-ui](https://github.com/victordibia/autogen-ui) - Web UI for AutoGen (A Framework Multi-Agent LLM Applications)
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The Multi-Agent Framework, Runtime, and Control Plane. Build AI products that run in your cloud.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Agents: framework, runtime and control plane.
 
 ## algorithm 
 
@@ -381,7 +381,7 @@
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The Multi-Agent Framework, Runtime, and Control Plane. Build AI products that run in your cloud.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Agents: framework, runtime and control plane.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 
 ## devops 
@@ -775,7 +775,7 @@
 - [bugsink/bugsink](https://github.com/bugsink/bugsink) - Self-hosted Error Tracking
 - [imanoop7/Ollama-OCR](https://github.com/imanoop7/Ollama-OCR) - 
 - [LaravelDaily/Laravel-API-Course-NextJS-Client](https://github.com/LaravelDaily/Laravel-API-Course-NextJS-Client) - 
-- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [php-ai-rules/php](https://github.com/php-ai-rules/php) - 
 - [kaleidos-ventures/taiga](https://github.com/kaleidos-ventures/taiga) - Taiga is a free and open-source project management for cross-functional agile teams.
 - [facebookresearch/DocAgent](https://github.com/facebookresearch/DocAgent) - DocAgent is a system designed to generate high-quality, context-aware code documentation for Python codebases using a multi-agent approach and hierarchical processing.
@@ -891,7 +891,7 @@
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
 - [Screenly/Anthias](https://github.com/Screenly/Anthias) - The world's most popular open source digital signage project.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The Multi-Agent Framework, Runtime, and Control Plane. Build AI products that run in your cloud.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Agents: framework, runtime and control plane.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
 ## python3 
