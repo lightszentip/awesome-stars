@@ -27,7 +27,7 @@
 
 ## Blade 
 
-- [CodeWithDennis/larament](https://github.com/CodeWithDennis/larament) - Kickstart your project and save time with Larament! This time-saving starter kit includes a Laravel 12 with FilamentPHP 4 already installed and set up, along with extra features.
+- [CodeWithDennis/larament](https://github.com/CodeWithDennis/larament) - Kickstart your project and save time with Larament! This time-saving starter kit includes a Laravel 12 with FilamentPHP 3/4/5 already installed and set up, along with extra features.
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 
 ## C# # 
