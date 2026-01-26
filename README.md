@@ -27,6 +27,7 @@
 
 ## Blade 
 
+- [LaravelDaily/Livewire-v4-Course-Demo](https://github.com/LaravelDaily/Livewire-v4-Course-Demo) - 
 - [CodeWithDennis/larament](https://github.com/CodeWithDennis/larament) - Kickstart your project and save time with Larament! This time-saving starter kit includes a Laravel 12 with FilamentPHP 3/4/5 already installed and set up, along with extra features.
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 
@@ -115,6 +116,7 @@
 
 ## PHP 
 
+- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 - [ahmedesa/laravel-api-tool-kit](https://github.com/ahmedesa/laravel-api-tool-kit) - Your all-in-one solution for building efficient APIs with Laravel.
 - [kauffinger/livewire-chat](https://github.com/kauffinger/livewire-chat) - Laravel Livewire Chat UI Starter Kit
 - [theokafadaris/chatwire](https://github.com/theokafadaris/chatwire) - Self hosted ChatGPT clone using Laravel
@@ -168,6 +170,8 @@
 
 ## Python 
 
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
+- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 - [newideas99/ultra-fast-image-gen](https://github.com/newideas99/ultra-fast-image-gen) - 4B parameter image gen that actually runs fast on your Mac. 14 seconds. No cloud. No GPU rental.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [eggai-tech/EggAI](https://github.com/eggai-tech/EggAI) - Async-first meta framework for building enterprise-grade multi-agent systems.
@@ -242,6 +246,7 @@
 
 ## TypeScript 
 
+- [opral/lix](https://github.com/opral/lix) - The version control system for AI agents.
 - [swark-io/swark](https://github.com/swark-io/swark) - Create architecture diagrams from code automatically using large language models (LLMs).
 - [deepnote/deepnote](https://github.com/deepnote/deepnote) - Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote c
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
