@@ -176,7 +176,7 @@
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [eggai-tech/EggAI](https://github.com/eggai-tech/EggAI) - Async-first meta framework for building enterprise-grade multi-agent systems.
 - [rmusser01/tldw_server](https://github.com/rmusser01/tldw_server) - tl/dw (Too Long, Didn't Watch): Your Personal Research Multi-Tool - a naive attempt at 'A Young Lady's Illustrated Primer' (Open Source NotebookLM)
-- [fr0gger/proximity](https://github.com/fr0gger/proximity) - Proximity is a MCP security scanner powered with NOVA
+- [Nova-Hunting/proximity](https://github.com/Nova-Hunting/proximity) - Proximity is a MCP security scanner powered with NOVA
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [vtsaplin/datatalk-cli](https://github.com/vtsaplin/datatalk-cli) - Query CSV, Excel & Parquet files with natural language. Fast, local, DuckDB-powered.
 - [GongRzhe/Office-PowerPoint-MCP-Server](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) - A MCP (Model Context Protocol) server for PowerPoint manipulation using python-pptx. This server provides tools for creating, editing, and manipulating PowerPoint presentations through the MCP protoco
@@ -269,7 +269,7 @@
 - [heroui-inc/heroui-cli](https://github.com/heroui-inc/heroui-cli) - ⌨️ A CLI tool that unlocks seamless HeroUI integration.
 - [jamenamcinteer/react-qr-barcode-scanner](https://github.com/jamenamcinteer/react-qr-barcode-scanner) - A simple React Component using the client's webcam to read barcodes.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - :exploding_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling mult
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
