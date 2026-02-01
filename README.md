@@ -176,7 +176,7 @@
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [eggai-tech/EggAI](https://github.com/eggai-tech/EggAI) - Async-first meta framework for building enterprise-grade multi-agent systems.
 - [rmusser01/tldw_server](https://github.com/rmusser01/tldw_server) - tl/dw (Too Long, Didn't Watch): Your Personal Research Multi-Tool - a naive attempt at 'A Young Lady's Illustrated Primer' (Open Source NotebookLM)
-- [Nova-Hunting/proximity](https://github.com/Nova-Hunting/proximity) - Proximity is a MCP security scanner powered with NOVA
+- [Nova-Hunting/nova-proximity](https://github.com/Nova-Hunting/nova-proximity) - Nova-Proximity is a MCP and Agent Skills security scanner powered with NOVA
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [vtsaplin/datatalk-cli](https://github.com/vtsaplin/datatalk-cli) - Query CSV, Excel & Parquet files with natural language. Fast, local, DuckDB-powered.
 - [GongRzhe/Office-PowerPoint-MCP-Server](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) - A MCP (Model Context Protocol) server for PowerPoint manipulation using python-pptx. This server provides tools for creating, editing, and manipulating PowerPoint presentations through the MCP protoco
@@ -246,7 +246,7 @@
 
 ## TypeScript 
 
-- [opral/lix](https://github.com/opral/lix) - Embeddable version control system for AI agents and applications
+- [opral/lix](https://github.com/opral/lix) - Embeddable version control system
 - [swark-io/swark](https://github.com/swark-io/swark) - Create architecture diagrams from code automatically using large language models (LLMs).
 - [deepnote/deepnote](https://github.com/deepnote/deepnote) - Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote c
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
