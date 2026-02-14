@@ -22,6 +22,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
+- [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
@@ -247,6 +248,10 @@
 - [eldada/kubernetes-scripts](https://github.com/eldada/kubernetes-scripts) - A collection of scripts and commands for various Kubernetes tasks
 - [kubernetes-up-and-running/examples](https://github.com/kubernetes-up-and-running/examples) - Example code and files from "Kubernetes: Up and Running"
 
+## Svelte 
+
+- [vanna-ai/remote-code](https://github.com/vanna-ai/remote-code) - Remote AI agent orchestration platform: Manage multiple coding agents, projects, and tasks from anywhere via web terminals, secure tunnels, and mobile app
+
 ## TypeScript 
 
 - [opral/lix](https://github.com/opral/lix) - Embeddable version control system for AI agents
@@ -266,7 +271,7 @@
 - [reactjs/react-docgen](https://github.com/reactjs/react-docgen) - A CLI and library to extract information from React component files for documentation generation purposes.
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - [Nutlope/napkins](https://github.com/Nutlope/napkins) - napkins.dev – from screenshot to app
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Stack Frontendstack for Agents. Connect to any agent framework & build Chat UI, Generative UI, Frontend Actions, Human-in-the-Loop and Shared State. React & Angular supported.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents. Connect any agent framework to Chat, Generative UI, Frontend Tools, Human-in-the-Loop and Shared State. React & Angular supported.
 - [mcavaliere/llm-codegen](https://github.com/mcavaliere/llm-codegen) - Better LLM code generation for all the libs you use
 - [victordibia/autogen-ui](https://github.com/victordibia/autogen-ui) - Web UI for AutoGen (A Framework Multi-Agent LLM Applications)
 - [heroui-inc/heroui-cli](https://github.com/heroui-inc/heroui-cli) - ⌨️ A CLI tool that unlocks seamless HeroUI integration.
