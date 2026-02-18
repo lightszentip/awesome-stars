@@ -231,6 +231,7 @@
 
 ## Rust 
 
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 - [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
@@ -271,7 +272,7 @@
 - [reactjs/react-docgen](https://github.com/reactjs/react-docgen) - A CLI and library to extract information from React component files for documentation generation purposes.
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - [Nutlope/napkins](https://github.com/Nutlope/napkins) - napkins.dev – from screenshot to app
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents. Connect any agent framework to Chat, Generative UI, Frontend Tools, Human-in-the-Loop and Shared State. React & Angular supported.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents & Generative UI. React + Angular
 - [mcavaliere/llm-codegen](https://github.com/mcavaliere/llm-codegen) - Better LLM code generation for all the libs you use
 - [victordibia/autogen-ui](https://github.com/victordibia/autogen-ui) - Web UI for AutoGen (A Framework Multi-Agent LLM Applications)
 - [heroui-inc/heroui-cli](https://github.com/heroui-inc/heroui-cli) - ⌨️ A CLI tool that unlocks seamless HeroUI integration.
