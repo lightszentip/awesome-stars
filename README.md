@@ -23,7 +23,6 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
-- [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Vue](#vue)
 
@@ -252,10 +251,6 @@
 
 - [eldada/kubernetes-scripts](https://github.com/eldada/kubernetes-scripts) - A collection of scripts and commands for various Kubernetes tasks
 - [kubernetes-up-and-running/examples](https://github.com/kubernetes-up-and-running/examples) - Example code and files from "Kubernetes: Up and Running"
-
-## Svelte 
-
-- [vanna-ai/remote-code](https://github.com/vanna-ai/remote-code) - Remote AI agent orchestration platform: Manage multiple coding agents, projects, and tasks from anywhere via web terminals, secure tunnels, and mobile app
 
 ## TypeScript 
 
