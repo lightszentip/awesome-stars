@@ -177,7 +177,7 @@
 
 - [invariantlabs-ai/invariant](https://github.com/invariantlabs-ai/invariant) - Guardrails for secure and robust agent development
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source voice synthesis studio
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
@@ -223,7 +223,7 @@
 ## ai-agents 
 
 - [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) - Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
 - [adversa-ai/secureclaw](https://github.com/adversa-ai/secureclaw) - SecureClaw - Security Plugin and Skill for OpenClaw OWASP-Aligned
 - [opral/lix](https://github.com/opral/lix) - Version control system for AI agents
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
@@ -355,7 +355,7 @@
 
 ## crawler 
 
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
 
 ## cybersecurity 
 
@@ -687,7 +687,7 @@
 ## llm 
 
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
 - [czl9707/build-your-own-openclaw](https://github.com/czl9707/build-your-own-openclaw) - A step-by-step guide to build your own AI agent.
 - [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 - [rmusser01/tldw_server](https://github.com/rmusser01/tldw_server) - tl/dw (Too Long, Didn't Watch): Your Personal Research Multi-Tool - a naive attempt at 'A Young Lady's Illustrated Primer' (Open Source NotebookLM)
@@ -742,7 +742,7 @@
 
 ## markdown 
 
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [Zeioth/markmap.nvim](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps with markmap
 
