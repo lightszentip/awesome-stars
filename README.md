@@ -279,7 +279,7 @@
 
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
-- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source voice synthesis studio
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
 - [adversa-ai/secureclaw](https://github.com/adversa-ai/secureclaw) - SecureClaw - Security Plugin and Skill for OpenClaw OWASP-Aligned
 - [opral/lix](https://github.com/opral/lix) - Version control system for AI agents
