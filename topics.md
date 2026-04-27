@@ -577,7 +577,7 @@
 ## html 
 
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
-- [thymeleaf/thymeleaf-spring](https://github.com/thymeleaf/thymeleaf-spring) - Thymeleaf integration module for Spring
+- [thymeleaf/thymeleaf-spring](https://github.com/thymeleaf/thymeleaf-spring) - OLD repository for the Thymeleaf integration module for Spring. Code now moved to thymeleaf/thymeleaf
 
 ## html5 
 
@@ -596,7 +596,7 @@
 ## java 
 
 - [operaton/operaton](https://github.com/operaton/operaton) - BPMN-Process automation for everyone
-- [thymeleaf/thymeleaf-spring](https://github.com/thymeleaf/thymeleaf-spring) - Thymeleaf integration module for Spring
+- [thymeleaf/thymeleaf-spring](https://github.com/thymeleaf/thymeleaf-spring) - OLD repository for the Thymeleaf integration module for Spring. Code now moved to thymeleaf/thymeleaf
 
 ## javascript 
 
@@ -609,7 +609,7 @@
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [freeciv/freeciv-web](https://github.com/freeciv/freeciv-web) - Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
-- [thymeleaf/thymeleaf-spring](https://github.com/thymeleaf/thymeleaf-spring) - Thymeleaf integration module for Spring
+- [thymeleaf/thymeleaf-spring](https://github.com/thymeleaf/thymeleaf-spring) - OLD repository for the Thymeleaf integration module for Spring. Code now moved to thymeleaf/thymeleaf
 
 ## jenkins 
 
@@ -1139,11 +1139,11 @@
 
 ## spring 
 
-- [thymeleaf/thymeleaf-spring](https://github.com/thymeleaf/thymeleaf-spring) - Thymeleaf integration module for Spring
+- [thymeleaf/thymeleaf-spring](https://github.com/thymeleaf/thymeleaf-spring) - OLD repository for the Thymeleaf integration module for Spring. Code now moved to thymeleaf/thymeleaf
 
 ## spring-boot 
 
-- [thymeleaf/thymeleaf-spring](https://github.com/thymeleaf/thymeleaf-spring) - Thymeleaf integration module for Spring
+- [thymeleaf/thymeleaf-spring](https://github.com/thymeleaf/thymeleaf-spring) - OLD repository for the Thymeleaf integration module for Spring. Code now moved to thymeleaf/thymeleaf
 
 ## sql 
 
@@ -1249,7 +1249,7 @@
 
 ## xml 
 
-- [thymeleaf/thymeleaf-spring](https://github.com/thymeleaf/thymeleaf-spring) - Thymeleaf integration module for Spring
+- [thymeleaf/thymeleaf-spring](https://github.com/thymeleaf/thymeleaf-spring) - OLD repository for the Thymeleaf integration module for Spring. Code now moved to thymeleaf/thymeleaf
 
 
 ## License
