@@ -22,6 +22,7 @@
 - [awesome-list](#awesome-list)
 - [aws](#aws)
 - [azure](#azure)
+- [blockchain](#blockchain)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chrome-extension](#chrome-extension)
@@ -290,6 +291,7 @@
 
 ## automation 
 
+- [mirichard/pm-tools-templates](https://github.com/mirichard/pm-tools-templates) - 🚀 Next-generation AI-powered project management ecosystem with 80+ proven templates, predictive analytics, blockchain automation, and intelligent workflows. Transform from static templates to data-dri
 - [eggai-tech/EggAI](https://github.com/eggai-tech/EggAI) - Async-first meta framework for building enterprise-grade multi-agent systems.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [Tschucki/filament-workflows](https://github.com/Tschucki/filament-workflows) - Laravel Filament plugin to add workflows.  Attach triggers and dispatchable actions to automate tasks
@@ -321,6 +323,10 @@
 
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+
+## blockchain 
+
+- [mirichard/pm-tools-templates](https://github.com/mirichard/pm-tools-templates) - 🚀 Next-generation AI-powered project management ecosystem with 80+ proven templates, predictive analytics, blockchain automation, and intelligent workflows. Transform from static templates to data-dri
 
 ## chatbot 
 
@@ -481,6 +487,7 @@
 
 ## documentation 
 
+- [mirichard/pm-tools-templates](https://github.com/mirichard/pm-tools-templates) - 🚀 Next-generation AI-powered project management ecosystem with 80+ proven templates, predictive analytics, blockchain automation, and intelligent workflows. Transform from static templates to data-dri
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - NOW MANAGED ON CODEBERG
 - [reactjs/react-docgen](https://github.com/reactjs/react-docgen) - A CLI and library to extract information from React component files for documentation generation purposes.
 - [Mapping-Apping/laravel2doc](https://github.com/Mapping-Apping/laravel2doc) - Automate generating comprehensive documentation for Laravel applications, including Entity Relationship Diagrams (ERD), UML Class Diagrams, Sequence Diagrams, API Documentation, and more.
@@ -759,6 +766,7 @@
 
 ## machine-learning 
 
+- [mirichard/pm-tools-templates](https://github.com/mirichard/pm-tools-templates) - 🚀 Next-generation AI-powered project management ecosystem with 80+ proven templates, predictive analytics, blockchain automation, and intelligent workflows. Transform from static templates to data-dri
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [eggai-tech/EggAI](https://github.com/eggai-tech/EggAI) - Async-first meta framework for building enterprise-grade multi-agent systems.
 - [timeseriesAI/tsai](https://github.com/timeseriesAI/tsai) - Time series Timeseries Deep Learning Machine Learning Python Pytorch  fastai | State-of-the-art Deep Learning library  for Time Series and Sequences in Pytorch / fastai
@@ -1015,6 +1023,7 @@
 
 ## project-management 
 
+- [mirichard/pm-tools-templates](https://github.com/mirichard/pm-tools-templates) - 🚀 Next-generation AI-powered project management ecosystem with 80+ proven templates, predictive analytics, blockchain automation, and intelligent workflows. Transform from static templates to data-dri
 - [itflow-org/itflow](https://github.com/itflow-org/itflow) - All in One PSA for MSPs, which Unifies client, contact, vendor, asset, license, domain, ssl certificate, password, documentation, file, network and location management with ticketing and billing capab
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [Eigenfocus/eigenfocus](https://github.com/Eigenfocus/eigenfocus) - Eigenfocus - Project Management tool without the clutter.
