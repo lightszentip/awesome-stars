@@ -168,7 +168,7 @@
 - [PrathamLearnsToCode/paper2code](https://github.com/PrathamLearnsToCode/paper2code) - Agent skill to turn any arxiv paper into a working implementation
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
 - [Nixtla/nixtla](https://github.com/Nixtla/nixtla) - TimeGPT-1: production ready pre-trained Time Series Foundation Model  for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's ca
-- [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) - #1 PHP Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs, memory) to agents that can interact with your data.
+- [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) - The PHP Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs, memory) to agents that can interact with your data.
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
@@ -188,7 +188,7 @@
 - [wanxingai/LightAgent](https://github.com/wanxingai/LightAgent) - LightAgent: Lightweight AI agent framework with memory, mcp & skill. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen). Open-source with MCP/SSE protocol integra
 - [invariantlabs-ai/invariant](https://github.com/invariantlabs-ai/invariant) - Guardrails for secure and robust agent development
 - [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
-- [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) - #1 PHP Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs, memory) to agents that can interact with your data.
+- [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) - The PHP Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs, memory) to agents that can interact with your data.
 - [strands-agents/docs](https://github.com/strands-agents/docs) - Documentation for the Strands Agents SDK. A model-driven approach to building AI agents in just a few lines of code.
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
@@ -217,7 +217,7 @@
 - [theokafadaris/chatwire](https://github.com/theokafadaris/chatwire) - Self hosted ChatGPT clone using Laravel
 - [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 - [daodao97/chatmcp](https://github.com/daodao97/chatmcp) - ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).
-- [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) - #1 PHP Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs, memory) to agents that can interact with your data.
+- [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) - The PHP Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs, memory) to agents that can interact with your data.
 - [chitralputhran/Advanced-RAG-LangGraph](https://github.com/chitralputhran/Advanced-RAG-LangGraph) - Advanced-RAG-LangGraph is a Streamlit-based web application that implements an advanced Retrieval-Augmented Generation (RAG) pipeline using LangGraph, ChromaDB, and Tavily to enable interactive docume
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [strands-agents/docs](https://github.com/strands-agents/docs) - Documentation for the Strands Agents SDK. A model-driven approach to building AI agents in just a few lines of code.
@@ -741,7 +741,7 @@
 - [vtsaplin/datatalk-cli](https://github.com/vtsaplin/datatalk-cli) - Query CSV, Excel & Parquet files with natural language. Fast, local, DuckDB-powered.
 - [Nixtla/nixtla](https://github.com/Nixtla/nixtla) - TimeGPT-1: production ready pre-trained Time Series Foundation Model  for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's ca
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
-- [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) - #1 PHP Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs, memory) to agents that can interact with your data.
+- [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) - The PHP Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs, memory) to agents that can interact with your data.
 - [strands-agents/docs](https://github.com/strands-agents/docs) - Documentation for the Strands Agents SDK. A model-driven approach to building AI agents in just a few lines of code.
 - [vizra-ai/vizra-adk](https://github.com/vizra-ai/vizra-adk) - Build, test, and deploy intelligent AI agents the Laravel way
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
@@ -979,7 +979,7 @@
 - [theokafadaris/chatwire](https://github.com/theokafadaris/chatwire) - Self hosted ChatGPT clone using Laravel
 - [cybercog/youtrack-rest-php](https://github.com/cybercog/youtrack-rest-php) - JetBrains YouTrack REST API PHP Client
 - [spatie/laravel-flash](https://github.com/spatie/laravel-flash) - A lightweight package to flash messages
-- [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) - #1 PHP Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs, memory) to agents that can interact with your data.
+- [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) - The PHP Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs, memory) to agents that can interact with your data.
 - [vizra-ai/vizra-adk](https://github.com/vizra-ai/vizra-adk) - Build, test, and deploy intelligent AI agents the Laravel way
 - [itflow-org/itflow](https://github.com/itflow-org/itflow) - All in One PSA for MSPs, which Unifies client, contact, vendor, asset, license, domain, ssl certificate, password, documentation, file, network and location management with ticketing and billing capab
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
