@@ -6,6 +6,7 @@
 ## Contents
 
 - [Blade](#blade)
+- [C](#c)
 - [C#](#c#)
 - [CSS](#css)
 - [Dart](#dart)
@@ -33,6 +34,10 @@
 
 - [LaravelDaily/Livewire-v4-Course-Demo](https://github.com/LaravelDaily/Livewire-v4-Course-Demo) - 
 - [CodeWithDennis/larament](https://github.com/CodeWithDennis/larament) - A bloat-free starter kit for Laravel 13.x with FilamentPHP 5.x pre-configured. Only essential development tools included.
+
+## C 
+
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
 ## C# # 
 
@@ -227,7 +232,7 @@
 - [p-funk/fegis](https://github.com/p-funk/fegis) - Define AI tools in YAML with natural language schemas. All tool usage is automatically stored in Qdrant vector database, enabling semantic search, filtering, and memory retrieval across sessions.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [bugsink/bugsink](https://github.com/bugsink/bugsink) - Self-hosted Error Tracking
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative for AI agents. Research the open web with live data connectors for Reddit, YouTube, Amazon, Google Maps, and Google Search, through one API or MCP server. Join our D
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data, through one platform, API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9
 - [guinacio/langchain-mcp-client](https://github.com/guinacio/langchain-mcp-client) - This Streamlit application provides a user interface for connecting to MCP (Model Context Protocol) servers and interacting with them using different LLM providers (OpenAI, Anthropic, Google, Ollama).
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
