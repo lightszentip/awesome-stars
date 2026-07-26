@@ -207,7 +207,6 @@
 - [invariantlabs-ai/invariant](https://github.com/invariantlabs-ai/invariant) - Guardrails for secure and robust agent development
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [AsyncFuncAI/AsyncReview](https://github.com/AsyncFuncAI/AsyncReview) - Open-source Agentic code review tool inspired by DevinReview, using Recursive Language Models (RLM)
-- [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [czl9707/build-your-own-openclaw](https://github.com/czl9707/build-your-own-openclaw) - A step-by-step guide to build your own AI agent.
 - [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) - An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI assistants.
 - [jhj0517/Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI) - A Web UI for easy subtitle using whisper model.
@@ -232,7 +231,7 @@
 - [p-funk/fegis](https://github.com/p-funk/fegis) - Define AI tools in YAML with natural language schemas. All tool usage is automatically stored in Qdrant vector database, enabling semantic search, filtering, and memory retrieval across sessions.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [bugsink/bugsink](https://github.com/bugsink/bugsink) - Self-hosted Error Tracking
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis
 - [guinacio/langchain-mcp-client](https://github.com/guinacio/langchain-mcp-client) - This Streamlit application provides a user interface for connecting to MCP (Model Context Protocol) servers and interacting with them using different LLM providers (OpenAI, Anthropic, Google, Ollama).
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
@@ -302,6 +301,7 @@
 - [mnfst/manifest](https://github.com/mnfst/manifest) - Connect Your Agents And Harnesses With Any Provider 🦚
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
+- [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [adversa-ai/secureclaw](https://github.com/adversa-ai/secureclaw) - SecureClaw - Security Plugin and Skill for OpenClaw OWASP-Aligned
 - [swark-io/swark](https://github.com/swark-io/swark) - Create architecture diagrams from code automatically using large language models (LLMs).
