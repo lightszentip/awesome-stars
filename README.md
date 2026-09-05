@@ -97,6 +97,7 @@
 
 ## JavaScript 
 
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) - Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [Mapping-Apping/laravel2doc](https://github.com/Mapping-Apping/laravel2doc) - Automate generating comprehensive documentation for Laravel applications, including Entity Relationship Diagrams (ERD), UML Class Diagrams, Sequence Diagrams, API Documentation, and more.
@@ -146,6 +147,7 @@
 
 ## PHP 
 
+- [imTigger/laravel-job-status](https://github.com/imTigger/laravel-job-status) - Add ability to track Job progress, status and result dispatched to Queue.
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - NOW MANAGED ON CODEBERG
 - [ahmedesa/laravel-api-tool-kit](https://github.com/ahmedesa/laravel-api-tool-kit) - Your all-in-one solution for building efficient APIs with Laravel.
 - [kauffinger/livewire-chat](https://github.com/kauffinger/livewire-chat) - Laravel Livewire Chat UI Starter Kit
@@ -263,6 +265,7 @@
 
 ## Ruby 
 
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [Eigenfocus/eigenfocus](https://github.com/Eigenfocus/eigenfocus) - Eigenfocus - Project Management tool without the clutter.
 
@@ -286,6 +289,7 @@
 
 ## Shell 
 
+- [con/yolo](https://github.com/con/yolo) - Use podman to safely run claude-code with permission bypass (YOLO mode)
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [eldada/kubernetes-scripts](https://github.com/eldada/kubernetes-scripts) - A collection of scripts and commands for various Kubernetes tasks
 - [kubernetes-up-and-running/examples](https://github.com/kubernetes-up-and-running/examples) - Example code and files from "Kubernetes: Up and Running"
@@ -296,6 +300,7 @@
 
 ## TypeScript 
 
+- [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React.
 - [CharlesHoskinson/anthropies](https://github.com/CharlesHoskinson/anthropies) - Restore clean title in work you already own. Strip vendor marks from Outputs Anthropic assigned to you.
 - [withastro/triagebot-action](https://github.com/withastro/triagebot-action) - A GitHub Action for issue triage
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
