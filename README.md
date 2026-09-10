@@ -305,7 +305,7 @@
 - [withastro/triagebot-action](https://github.com/withastro/triagebot-action) - A GitHub Action for issue triage
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - TypeScript multi-agent framework that runs in your own environment: consequential actions wait for approval and every run leaves a verifiable record. Describe the goal, not the graph. 13 built-in prov
-- [mnfst/manifest](https://github.com/mnfst/manifest) - Connect Your Agents And Harnesses With Any Provider 🦚
+- [mnfst/llm-gateway](https://github.com/mnfst/llm-gateway) - Connect Your Agents And Harnesses With Any Provider 🦚
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
