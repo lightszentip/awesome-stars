@@ -84,7 +84,6 @@
 - [horilla/horilla-hr](https://github.com/horilla/horilla-hr) - Horilla is a free and open source HR software.
 - [gehaxelt/phuzz](https://github.com/gehaxelt/phuzz) - Modular & Open-Source Coverage-Guided Web Application Fuzzer for PHP
 - [LlmLaraHub/larallama](https://github.com/LlmLaraHub/larallama) - This is version 2 of LaraChain.io ream more at https://LaraLlama.io
-- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## Java 
 
@@ -123,6 +122,7 @@
 ## MDX 
 
 - [strands-agents/docs](https://github.com/strands-agents/docs) - Documentation for the Strands Agents SDK. A model-driven approach to building AI agents in just a few lines of code.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## Mermaid 
 
