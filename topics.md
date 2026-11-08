@@ -99,6 +99,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [mcp](#mcp)
+- [mcp-server](#mcp-server)
 - [microservices](#microservices)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
@@ -851,6 +852,10 @@
 - [guinacio/langchain-mcp-client](https://github.com/guinacio/langchain-mcp-client) - This Streamlit application provides a user interface for connecting to MCP (Model Context Protocol) servers and interacting with them using different LLM providers (OpenAI, Anthropic, Google, Ollama).
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
+
+## mcp-server 
+
+- [p-funk/fegis](https://github.com/p-funk/fegis) - Define AI tools in YAML with natural language schemas. All tool usage is automatically stored in Qdrant vector database, enabling semantic search, filtering, and memory retrieval across sessions.
 
 ## microservices 
 
