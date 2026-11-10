@@ -153,6 +153,7 @@
 - [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
 - [terraform](#terraform)
+- [testing](#testing)
 - [tui](#tui)
 - [typescript](#typescript)
 - [ui](#ui)
@@ -1324,6 +1325,10 @@
 ## terraform 
 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+
+## testing 
+
+- [tester-army/e2e](https://github.com/tester-army/e2e) - Next generation e2e testing framework for web and mobile apps.
 
 ## tui 
 
