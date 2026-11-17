@@ -8,6 +8,7 @@
 - [3d](#3d)
 - [agent](#agent)
 - [agent-skills](#agent-skills)
+- [agentic-ai](#agentic-ai)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agent](#ai-agent)
@@ -113,6 +114,7 @@
 - [nlp](#nlp)
 - [no-code](#no-code)
 - [nodejs](#nodejs)
+- [obsidian](#obsidian)
 - [open-source](#open-source)
 - [openai](#openai)
 - [others](#others)
@@ -149,6 +151,8 @@
 - [sqlite](#sqlite)
 - [support](#support)
 - [svelte](#svelte)
+- [swift](#swift)
+- [swiftui](#swiftui)
 - [symfony](#symfony)
 - [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
@@ -196,6 +200,18 @@
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+
+## agentic-ai 
+
+- [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - Self-hosted TypeScript agent runtime with durable approvals and verifiable run records. Own it, approve it, audit it.
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
+- [adversa-ai/secureclaw](https://github.com/adversa-ai/secureclaw) - SecureClaw - Security Plugin and Skill for OpenClaw OWASP-Aligned
+- [rmusser01/tldw_server](https://github.com/rmusser01/tldw_server) - tl/dw (Too Long, Didn't Watch): Your Personal Research Multi-Tool - a naive attempt at 'A Young Lady's Illustrated Primer' (Open Source NotebookLM)
+- [Nixtla/nixtla](https://github.com/Nixtla/nixtla) - TimeGPT-2.1: production ready pre-trained Time Series Foundation Model  for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's 
+- [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
+- [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) - The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs, memory) to agents that interact with your data and UI.
+- [strands-agents/docs](https://github.com/strands-agents/docs) - Documentation for the Strands Agents SDK. A model-driven approach to building AI agents in just a few lines of code.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
 
 ## agents 
 
@@ -842,11 +858,13 @@
 
 ## macos 
 
+- [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats) - A beautiful, minimal meeting recorder for Mac. Press Start, and after Stop you get Notes and a transcript in one markdown file. On-device, free and open source.
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 
 ## markdown 
 
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
+- [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats) - A beautiful, minimal meeting recorder for Mac. Press Start, and after Stop you get Notes and a transcript in one markdown file. On-device, free and open source.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [Zeioth/markmap.nvim](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps with markmap
 
@@ -936,6 +954,10 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [Mapping-Apping/laravel2doc](https://github.com/Mapping-Apping/laravel2doc) - Automate generating comprehensive documentation for Laravel applications, including Entity Relationship Diagrams (ERD), UML Class Diagrams, Sequence Diagrams, API Documentation, and more.
 
+## obsidian 
+
+- [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats) - A beautiful, minimal meeting recorder for Mac. Press Start, and after Stop you get Notes and a transcript in one markdown file. On-device, free and open source.
+
 ## open-source 
 
 - [mnfst/llm-gateway](https://github.com/mnfst/llm-gateway) - Open Source LLM Gateway 🦚
@@ -994,7 +1016,6 @@
 - [AsyncFuncAI/AsyncReview](https://github.com/AsyncFuncAI/AsyncReview) - Open-source Agentic code review tool inspired by DevinReview, using Recursive Language Models (RLM)
 - [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) - A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
 - [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
-- [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats) - A meeting note-taker that talks back.
 - [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) - An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI assistants.
 - [gastownhall/gastown](https://github.com/gastownhall/gastown) - Gas Town - multi-agent workspace manager
 - [Education-Victory/whisper-webui](https://github.com/Education-Victory/whisper-webui) - WebUI for Whisper API
@@ -1309,6 +1330,14 @@
 ## svelte 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
+
+## swift 
+
+- [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats) - A beautiful, minimal meeting recorder for Mac. Press Start, and after Stop you get Notes and a transcript in one markdown file. On-device, free and open source.
+
+## swiftui 
+
+- [yazinsai/OpenOats](https://github.com/yazinsai/OpenOats) - A beautiful, minimal meeting recorder for Mac. Press Start, and after Stop you get Notes and a transcript in one markdown file. On-device, free and open source.
 
 ## symfony 
 
